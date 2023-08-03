@@ -151,6 +151,9 @@ ul{
     justify-content: center;
     align-items: center;
 }
+.header .logo span{
+    font-style: italic;
+}
 @media (max-width: 767px) {
     .header .logo{
         width: 100%;
